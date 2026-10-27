@@ -1,6 +1,6 @@
-# Biohybrid Nanostructures Wiki — TUHH Biohybrid Nanostructures Module
+# Biohybrid Nanostructures Wiki — UHH Biohybrid Nanostructures Module
 
-An LLM-generated wiki covering the **Biohybrid Nanostructures** module at TUHH.
+An LLM-generated wiki covering the **Biohybrid Nanostructures** module at UHH.
 
 Feel free to view it with [Obsidian](https://obsidian.md/).
 
